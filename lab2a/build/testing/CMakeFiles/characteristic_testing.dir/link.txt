@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra CMakeFiles/characteristic_testing.dir/tests.cpp.o -o characteristic_testing  ../characteristic/libcharacteristic.a 

@@ -1,0 +1,9 @@
+/home/students/v/vasilev.aa/oop2023/lab2a/build/CMakeFiles/main.dir
+/home/students/v/vasilev.aa/oop2023/lab2a/build/CMakeFiles/edit_cache.dir
+/home/students/v/vasilev.aa/oop2023/lab2a/build/CMakeFiles/rebuild_cache.dir
+/home/students/v/vasilev.aa/oop2023/lab2a/build/characteristic/CMakeFiles/characteristic.dir
+/home/students/v/vasilev.aa/oop2023/lab2a/build/characteristic/CMakeFiles/edit_cache.dir
+/home/students/v/vasilev.aa/oop2023/lab2a/build/characteristic/CMakeFiles/rebuild_cache.dir
+/home/students/v/vasilev.aa/oop2023/lab2a/build/testing/CMakeFiles/characteristic_testing.dir
+/home/students/v/vasilev.aa/oop2023/lab2a/build/testing/CMakeFiles/edit_cache.dir
+/home/students/v/vasilev.aa/oop2023/lab2a/build/testing/CMakeFiles/rebuild_cache.dir
