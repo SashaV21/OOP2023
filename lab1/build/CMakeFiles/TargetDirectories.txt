@@ -1,0 +1,4 @@
+/home/students/v/vasilev.aa/oop2023/lab1/build/CMakeFiles/prog1.dir
+/home/students/v/vasilev.aa/oop2023/lab1/build/CMakeFiles/main.dir
+/home/students/v/vasilev.aa/oop2023/lab1/build/CMakeFiles/edit_cache.dir
+/home/students/v/vasilev.aa/oop2023/lab1/build/CMakeFiles/rebuild_cache.dir
